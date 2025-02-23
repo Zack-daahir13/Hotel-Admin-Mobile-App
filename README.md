@@ -20,7 +20,7 @@ Welcome to **Hotel Admin**, a **React Native** mobile application designed for h
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/zackdaahir/hotel-admin.git
+git clone https://github.com/Zack-daahir13/Hotel-Admin-Mobile-App.git
 cd hotel-admin
 ```
 ### 2️⃣ Install Dependencies
